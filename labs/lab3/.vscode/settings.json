@@ -43,6 +43,7 @@
         "random": "cpp",
         "tuple": "cpp",
         "type_traits": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "cassert": "cpp"
     }
 }

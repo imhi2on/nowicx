@@ -1,3 +1,8 @@
+//아너코드: 
+//On my honor, I pledge that I have neither received nor provided improper assistance 
+//in the completion of this assignment. 
+//Signed: 전하연 Student Number: 22300661
+
 #include <iostream> 
 #include <vector>
 #include <cassert> 
